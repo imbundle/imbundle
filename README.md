@@ -2,7 +2,7 @@
 
 ### Practical systems. Clear interfaces.
 
-I'm **Davide Davin**, working at **Codestorm S.r.l.** My focus is Odoo, developer tooling, and AI-assisted workflows: connecting business software with tools that make everyday work easier.
+I'm **Davide Davin**. My focus is Odoo, developer tooling, and AI-assisted workflows: connecting business software with tools that make everyday work easier.
 
 ## What I work on
 
